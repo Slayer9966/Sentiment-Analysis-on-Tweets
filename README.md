@@ -53,6 +53,11 @@ Social media is full of opinions, and understanding public sentiment behind thos
 ```
 
 ---
+## 🗃️ Dataset
+
+This project was trained using the **[Twitter Sentiment Analysis Dataset (Sentiment140)](https://www.kaggle.com/datasets/kazanova/sentiment140)** from Kaggle. It contains **1.6 million labeled tweets**, providing a balanced dataset for sentiment classification into **positive**, **neutral**, and **negative** categories.
+
+---
 
 ## 🛠️ Setup Instructions
 
