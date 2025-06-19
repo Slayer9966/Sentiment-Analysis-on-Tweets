@@ -1,0 +1,10 @@
+tensorflow
+keras
+keras-tuner
+transformers
+torch
+tqdm
+tweepy
+pandas
+numpy
+scikit-learn
